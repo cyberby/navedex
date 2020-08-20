@@ -1,0 +1,18 @@
+[
+    {
+        "model": "core.Project",
+        "pk": 1,
+        "fields": {
+            "name": "Projeto 1",
+            "user_id": 1
+        }
+    },
+    {
+        "model": "core.Project",
+        "pk": 2,
+        "fields": {
+            "name": "Projeto 2",
+            "user_id": 1
+        }
+    }
+]
