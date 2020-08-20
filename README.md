@@ -12,14 +12,17 @@ Para instalar a venv do python rode o comando
 ```bash
 python3 -m venv /path_do_projeto/venv
 ```
-Entre na pasta Scripts pelo comando
+Se windows, na pasta Scripts rode o comando
 ```bash
 cd /path_do_projeto/venv/Scripts
-```
-Depois ative a venv com o comando
-```bash
 activate
 ```
+Se linux, na pasta bin rode o comando
+```bash
+cd /path_do_projeto/venv/bin
+source activate
+```
+
 ### 2. Instalar dependências
 ```bash
 cd /path_do_projeto
