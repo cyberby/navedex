@@ -1,5 +1,13 @@
 # API Navedex
 
+## API em funcionamento
+A api está em funcionamento no seguinte endereço:
+
+http://35.169.59.206:8000
+
+A documentação feita em swagger está em:
+
+http://35.169.59.206:8000/swagger/
 
 ## Git
 clone o repositório em https://github.com/cyberby/navedex: 
